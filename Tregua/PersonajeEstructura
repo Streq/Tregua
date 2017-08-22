@@ -1,0 +1,26 @@
+Personaje
+
+-Objeto dinámico
+	-Posición
+	-Velocidad
+
+-En tierra
+-En pared
+	-Puede estar en pared
+
+-Salud
+-Maná
+
+-Saltos
+-Estado
+	En tierra
+		-Standing
+		-Walking
+		-Running
+		-Attacking/Casting
+		-Blocking(optional)
+		-Crouching
+		-Jump begin
+	En aire
+		-Idle
+		-Attacking/Casting
